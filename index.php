@@ -98,7 +98,7 @@ include __DIR__ . '/includes/header.php';
         <div class="hero-copy reveal">
 
             <span class="eyebrow">
-                CUSTOM SOFTWARE • CARE TECHNOLOGY • WEB • DIGITAL GROWTH
+                CUSTOM SOFTWAREE • CARE TECHNOLOGY • WEB • DIGITAL GROWTH
             </span>
 
             <h1>
