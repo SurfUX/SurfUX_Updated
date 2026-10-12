@@ -1,0 +1,21 @@
+# SurfUX clean URLs for Hostinger (Apache/LiteSpeed)
+# Keep redirects temporary while testing. Change 302 to 301 only after validation.
+RewriteEngine On
+
+# Canonical homepage URL
+RewriteCond %{THE_REQUEST} \s/+index\.php(?:[\s?]) [NC]
+RewriteRule ^index\.php$ / [R=302,L]
+
+# Redirect direct requests for PHP pages to extensionless URLs.
+# THE_REQUEST prevents redirect loops during internal rewrites.
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php(?:[\s?]) [NC]
+RewriteRule ^(.+)\.php$ /$1 [R=302,L,NE]
+
+# Internally map extensionless page URLs to their PHP files.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ $1.php [L]
+
+# Prevent directory listings.
+Options -Indexes

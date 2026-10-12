@@ -1,0 +1,872 @@
+[
+  {
+    "id": "caresphere-elder",
+    "title": "CareSphere Elder",
+    "year": "2026",
+    "type": "Elder Care Management Platform",
+    "url": "",
+    "image": "img/portfolio/caresphereelder.webp",
+    "alt": "CareSphere Elder Management Platform",
+    "tags": [
+      "CareSphere",
+      "Elder Care",
+      "Management Platform",
+      "Software Product"
+    ],
+    "description": [
+      "CareSphere Elder is a dedicated management solution for elder homes and senior care centres, designed to bring admissions, residents, care operations, bookings, reporting, and daily workflows into one centralized platform.",
+      "Developed by SurfUX, the platform helps care organizations reduce manual administration and manage essential information through a structured digital workspace with dashboards, records, booking workflows, notifications, and operational reporting.",
+      "CareSphere Elder forms the first specialized solution within the CareSphere ecosystem, providing a scalable foundation for modern elder care management."
+    ],
+    "features": [
+      "Resident Management",
+      "Admission & Booking Management",
+      "Alms Booking & Availability",
+      "Analytics & Operational Reports",
+      "Notifications & Email Outbox",
+      "Security & Audit Logs"
+    ]
+  },
+  {
+    "id": "caresphere-child",
+    "title": "CareSphere Child",
+    "year": "2026",
+    "type": "Child Care Management Platform",
+    "url": "",
+    "image": "img/portfolio/carespherechild.webp",
+    "alt": "CareSphere Child Management Platform",
+    "tags": [
+      "CareSphere",
+      "Child Care",
+      "Management Platform",
+      "Software Product"
+    ],
+    "description": [
+      "CareSphere Child is a specialized management solution designed for children's homes and child care organizations, bringing essential records, admissions, care activities, resources, and reporting into one connected platform.",
+      "The solution extends the CareSphere ecosystem with workflows tailored to organizations responsible for children, helping teams organize information, monitor daily operations, and maintain a clearer view of care and support activities.",
+      "CareSphere Child is designed as a scalable digital foundation that can evolve with the operational needs of children's homes and related care organizations."
+    ],
+    "features": [
+      "Child Records Management",
+      "Admission & Placement Workflows",
+      "Care & Activity Tracking",
+      "Staff & Resource Management",
+      "Reports & Analytics",
+      "Centralized Organization Data"
+    ]
+  },
+  {
+    "id": "caresphere-residential",
+    "title": "CareSphere Residential",
+    "year": "2026",
+    "type": "Residential Care Management Platform",
+    "url": "",
+    "image": "img/portfolio/caresphereresident.webp",
+    "alt": "CareSphere Residential Management Platform",
+    "tags": [
+      "CareSphere",
+      "Residential Care",
+      "Management Platform",
+      "Software Product"
+    ],
+    "description": [
+      "CareSphere Residential is a flexible management solution for residential care organizations that need to coordinate residents, rooms, admissions, staff, resources, and daily operational activities.",
+      "The platform brings core residential workflows into a centralized system, helping organizations maintain structured records, improve visibility across operations, and support more consistent day-to-day management.",
+      "As part of the CareSphere ecosystem, CareSphere Residential is designed to support different residential care models while maintaining a common technology foundation."
+    ],
+    "features": [
+      "Resident & Room Management",
+      "Admission Management",
+      "Occupancy & Availability Tracking",
+      "Staff & Resource Coordination",
+      "Operational Reports & Analytics",
+      "Centralized Care Records"
+    ]
+  },
+  {
+    "id": "caresphere-charity",
+    "title": "CareSphere Charity",
+    "year": "2026",
+    "type": "Charity & Social Impact Management Platform",
+    "url": "",
+    "image": "img/portfolio/carespherecharity.webp",
+    "alt": "CareSphere Charity Management Platform",
+    "tags": [
+      "CareSphere",
+      "Charity Management",
+      "Social Impact",
+      "Software Product"
+    ],
+    "description": [
+      "CareSphere Charity is a dedicated management solution for charities and social impact organizations, designed to organize beneficiaries, donations, programmes, supporters, and operational activities in one connected platform.",
+      "The solution helps organizations maintain structured records and improve visibility across programmes and resources while creating a stronger digital foundation for transparent and organized charity operations.",
+      "CareSphere Charity completes the initial four-solution CareSphere ecosystem, extending the platform beyond residential care into broader community support and social impact management."
+    ],
+    "features": [
+      "Beneficiary Management",
+      "Donation & Supporter Management",
+      "Programme & Initiative Tracking",
+      "Resource & Activity Management",
+      "Impact Reports & Analytics",
+      "Centralized Charity Operations"
+    ]
+  },
+  {
+    "id": "candleaid-lanka",
+    "title": "CandleAid Lanka – Management System",
+    "year": "2026",
+    "type": "Charity & Non-Profit Management System",
+    "url": "",
+    "image": "img/portfolio/candleaid.webp",
+    "alt": "CandleAid Lanka Management System developed by SurfUX",
+    "tags": [
+      "Charity Management",
+      "Non-Profit Management",
+      "Management System",
+      "Software Solution"
+    ],
+    "description": [
+      "CandleAid Lanka is a non-profit organization that supports people and communities through humanitarian and social support initiatives. SurfUX developed a centralized software solution to help organize its operational information and reduce dependence on traditional manual records and spreadsheets.",
+      "The system provides a structured digital environment for managing organizational data and day-to-day workflows, helping staff access information more efficiently while improving consistency across records and operations.",
+      "Designed as a practical management solution for a real-world non-profit organization, the platform supports a more organized approach to administration, reporting, and information management."
+    ],
+    "features": [
+      "Centralized Data Management",
+      "Organizational Records Management",
+      "Digital Workflow Management",
+      "Reporting & Information Management",
+      "Structured Operational Data",
+      "Reduced Manual Administration"
+    ]
+  },
+  {
+    "id": "enishi-global",
+    "title": "ENISHI Global",
+    "year": "2026",
+    "type": "International Education Institute",
+    "url": "https://enishiglobal.lk/",
+    "image": "img/portfolio/enishi.webp",
+    "alt": "ENISHI Global Website",
+    "tags": [
+      "Education",
+      "Japanese Language",
+      "Study in Japan",
+      "International Education"
+    ],
+    "description": [
+      "ENISHI Global is an international education platform helping\n            Sri Lankan students build their pathway towards Japan through\n            Japanese language education, student guidance, and international\n            study opportunities.",
+      "SurfUX designed and developed a modern, culturally inspired website\n            that connects the aspirations of Sri Lankan students with\n            educational opportunities in Japan. The visual direction combines\n            a sophisticated Japanese-inspired aesthetic with clear,\n            student-focused communication.",
+      "The website guides students through the complete journey — from\n            learning Japanese and exploring study opportunities to receiving\n            individual consultation and preparing for their next chapter in\n            Japan. The responsive experience ensures that students can easily\n            explore programmes and begin their journey across any device."
+    ],
+    "features": [
+      "Japanese Language Programmes",
+      "Study in Japan Pathways",
+      "Student Consultation",
+      "Education Programme Showcase",
+      "Student-Focused User Experience",
+      "Responsive Website Design"
+    ]
+  },
+  {
+    "id": "ameliya-holidays",
+    "title": "Ameliya Holidays",
+    "year": "2026",
+    "type": "Sri Lanka Travel Company",
+    "url": "https://ameliyaholidays.com/",
+    "image": "img/portfolio/ameliya.webp",
+    "alt": "Ameliya Holidays Sri Lanka Travel Website",
+    "tags": [
+      "Sri Lanka Tourism",
+      "Holiday Experiences",
+      "Custom Tours",
+      "Travel Website"
+    ],
+    "description": [
+      "Ameliya Holidays is a Sri Lanka travel company creating\n            personalized holiday experiences for couples, families, friends,\n            and independent travelers.",
+      "SurfUX designed and developed a modern travel website that\n            showcases the beauty and diversity of Sri Lanka through immersive\n            destination imagery, engaging storytelling, and a simple,\n            traveler-focused experience.",
+      "The website brings together popular destinations, customized\n            itineraries, and flexible travel experiences while making it easy\n            for visitors to connect directly with the travel team. A dedicated\n            WhatsApp booking experience provides a fast and familiar way for\n            travelers to start planning their journey."
+    ],
+    "features": [
+      "Sri Lanka Destination Showcase",
+      "Custom Travel Experiences",
+      "WhatsApp Booking Integration",
+      "Responsive Website Design",
+      "Conversion-Focused UX",
+      "Travel Storytelling"
+    ]
+  },
+  {
+    "id": "lily-wellness-spa",
+    "title": "Lily Wellness Spa",
+    "year": "2026",
+    "type": "Wellness & Ayurveda Spa",
+    "url": "https://lilywellnessspa.com/",
+    "image": "img/portfolio/lily.webp",
+    "alt": "Lily Wellness Spa Website",
+    "tags": [
+      "Wellness & Spa",
+      "Ayurveda",
+      "Luxury Experience",
+      "Responsive Website"
+    ],
+    "description": [
+      "Lily Wellness Spa is a serene wellness destination in Galle,\n            Sri Lanka, offering relaxing spa treatments, natural wellness\n            experiences, and traditional Ayurvedic-inspired therapies.",
+      "SurfUX designed and developed a calming, premium website that\n            reflects the spa's philosophy of relaxation, restoration, and\n            natural wellness. The visual experience combines elegant\n            typography, warm natural tones, immersive imagery, and a refined\n            user interface to create a sense of tranquility from the moment\n            visitors arrive.",
+      "The website makes it simple for guests to discover treatments,\n            understand the spa experience, and book their preferred treatment.\n            The responsive design ensures the same peaceful and intuitive\n            experience across desktop, tablet, and mobile devices."
+    ],
+    "features": [
+      "Treatment Showcase",
+      "Online Treatment Booking",
+      "Wellness-Focused UX",
+      "Luxury Visual Design",
+      "Responsive Experience",
+      "Local SEO Optimized"
+    ]
+  },
+  {
+    "id": "sky-foundation",
+    "title": "Sky Foundation",
+    "year": "2026",
+    "type": "Non-Profit Organisation",
+    "url": "",
+    "image": "img/portfolio/sky.webp",
+    "alt": "Sky Foundation Website",
+    "tags": [
+      "NGO & Non-Profit",
+      "Social Impact",
+      "Community Development",
+      "Donation Platform"
+    ],
+    "description": [
+      "Sky Foundation is a community-focused non-profit organisation\n            committed to creating opportunities and building a brighter future\n            for children, families, and communities.",
+      "SurfUX designed and developed a modern, human-centered website that\n            communicates the foundation's mission, impact, and community\n            initiatives through powerful storytelling and meaningful visual\n            content.",
+      "The platform was designed to make it easy for visitors to understand\n            the organisation's work, explore its initiatives, get involved, and\n            support its mission. A warm, accessible visual language helps build\n            trust while keeping the focus on the people and communities being\n            supported."
+    ],
+    "features": [
+      "Mission & Impact Storytelling",
+      "Community Initiative Showcase",
+      "Donation & Support CTA",
+      "Volunteer Engagement",
+      "Responsive Website Experience",
+      "Accessibility-Focused Design"
+    ]
+  },
+  {
+    "id": "cenova-ceylon-export",
+    "title": "Cenova Ceylon Export",
+    "year": "2026",
+    "type": "Ceylon Cinnamon Export Company",
+    "url": "https://cinovaceylonexports.com/",
+    "image": "img/portfolio/cenova.webp",
+    "alt": "Cenova Ceylon Export Website",
+    "tags": [
+      "Ceylon Cinnamon",
+      "Export & Trading",
+      "Agricultural Products",
+      "Corporate Website"
+    ],
+    "description": [
+      "Cenova Ceylon Export is a Sri Lankan export company focused on\n            delivering authentic Ceylon cinnamon and premium agricultural\n            products to customers and businesses around the world.",
+      "SurfUX designed and developed a modern corporate website that\n            communicates the company's Sri Lankan origin, product quality, and\n            international export capabilities. The visual direction combines\n            natural tones, premium product photography, and a clean interface\n            to create a strong and trustworthy export brand.",
+      "The website is designed to connect international wholesalers,\n            distributors, food businesses, and private-label brands with\n            authentic Sri Lankan products while providing a clear and\n            streamlined path for product discovery and quotation requests."
+    ],
+    "features": [
+      "Ceylon Cinnamon Showcase",
+      "Product Presentation",
+      "Global Export Positioning",
+      "Quotation Request System",
+      "Responsive Corporate Design",
+      "International Buyer Experience"
+    ]
+  },
+  {
+    "id": "aloka-elder-s-home-admin-dashboard",
+    "title": "Aloka Elder's Home – Admin Dashboard",
+    "year": "2025",
+    "type": "Elder Care Management System",
+    "url": "",
+    "image": "img/portfolio/alokad.webp",
+    "alt": "Aloka Elder's Home Admin Dashboard",
+    "tags": [
+      "Admin Dashboard",
+      "Care Management",
+      "Booking System",
+      "Analytics"
+    ],
+    "description": [
+      "The Aloka Elder's Home Admin Dashboard is a comprehensive management platform\n                  built to simplify daily operations, resident admissions, care coordination,\n                  and reporting through a centralized digital system.",
+      "SurfUX designed and developed an intuitive dashboard that enables staff to\n                  manage bookings, resident records, caregiver assignments, meal preferences,\n                  notifications, and operational reports from a single interface. The system\n                  improves administrative efficiency while reducing manual paperwork and\n                  streamlining day-to-day workflows.",
+      "With responsive access across desktop, tablet, and mobile devices, the\n                  platform provides administrators with real-time insights into occupancy,\n                  admissions, and resident management, ensuring a faster and more organized\n                  care management process."
+    ],
+    "features": [
+      "Resident Management",
+      "Admission & Booking Control",
+      "Caregiver & Staff Management",
+      "Real-Time Analytics Dashboard",
+      "Reports & Data Export",
+      "Responsive Admin Interface"
+    ]
+  },
+  {
+    "id": "arches-fort",
+    "title": "Arches Fort",
+    "year": "2025",
+    "type": "Boutique Heritage Hotel",
+    "url": "https://www.archesfort.com/",
+    "image": "img/portfolio/archesfort.webp",
+    "alt": "Arches Fort Boutique Hotel Website",
+    "tags": [
+      "Hospitality",
+      "Boutique Hotel",
+      "Luxury Stay",
+      "Responsive Website"
+    ],
+    "description": [
+      "Arches Fort is a boutique heritage hotel located within the historic\n                  walls of Galle Fort, offering guests a unique blend of colonial\n                  elegance, modern comfort, and authentic Sri Lankan hospitality.",
+      "SurfUX designed and developed a premium hospitality website that\n                  captures the timeless character of the property while delivering a\n                  seamless digital experience. The design emphasizes immersive\n                  photography, elegant typography, and intuitive navigation to inspire\n                  travelers from around the world.",
+      "The website enables visitors to explore accommodation, hotel\n                  facilities, nearby attractions, and local experiences while\n                  strengthening the hotel's online presence and reinforcing its luxury\n                  brand identity across all devices."
+    ],
+    "features": [
+      "Luxury Hospitality Design",
+      "Fully Responsive Layout",
+      "Room & Experience Showcase",
+      "Optimized User Journey",
+      "Modern Performance & SEO"
+    ]
+  },
+  {
+    "id": "aloka-elder-s-home",
+    "title": "Aloka Elder's Home",
+    "year": "2025",
+    "type": "Elder Care & Assisted Living",
+    "url": "#",
+    "image": "img/portfolio/aloka.webp",
+    "alt": "Aloka Elder's Home Website",
+    "tags": [
+      "Healthcare",
+      "Elder Care",
+      "Booking System",
+      "Responsive Website"
+    ],
+    "description": [
+      "Aloka Elder's Home is a compassionate residential care facility dedicated\n                  to providing a safe, comfortable, and dignified living environment for\n                  senior citizens through professional care and personalized support.",
+      "SurfUX designed and developed a modern, accessible website that enables\n                  families to explore accommodation, care services, facilities, and the\n                  home's compassionate approach with confidence. The design focuses on\n                  warmth, trust, and simplicity while ensuring an intuitive user experience\n                  across all devices.",
+      "The platform also includes an online inquiry and booking system, making\n                  it easier for families to schedule visits, request admissions, and connect\n                  with the care team. The result is a professional digital presence that\n                  reflects Aloka Elder's Home's commitment to quality elder care."
+    ],
+    "features": [
+      "Online Admission & Booking",
+      "Care Service Showcase",
+      "Fully Responsive Design",
+      "Accessibility-Focused Experience",
+      "SEO & Performance Optimized"
+    ]
+  },
+  {
+    "id": "maniq-ceylon-admin-dashboard",
+    "title": "Maniq Ceylon – Admin Dashboard",
+    "year": "2025",
+    "type": "Gemstone E-Catalogue System",
+    "url": "#",
+    "image": "img/portfolio/dashboard.webp",
+    "alt": "Maniq Ceylon Admin Dashboard",
+    "tags": [
+      "Admin Panel",
+      "Inventory Management",
+      "Gem Catalogue",
+      "Dashboard UI"
+    ],
+    "description": [
+      "The Maniq Ceylon Admin Dashboard is a centralized platform designed\n                  to manage gemstone inventory, catalogue updates, and product\n                  availability in real time.",
+      "SurfUX developed this dashboard to give full control over the\n                  e-catalogue system, allowing administrators to easily add, update,\n                  and manage gemstones across multiple categories such as sapphires,\n                  spinels, garnets, and more.",
+      "The system is built with a clean and intuitive interface, ensuring\n                  efficient workflow management while maintaining accuracy, speed, and\n                  consistency across the entire digital catalogue."
+    ],
+    "features": [
+      "Gem Inventory Management",
+      "Category-Based Organization",
+      "Real Time Availability Updates",
+      "Image & Product Data Control",
+      "Responsive Dashboard Interface"
+    ]
+  },
+  {
+    "id": "go-china-holidays",
+    "title": "Go China Holidays",
+    "year": "2025",
+    "type": "International Travel Agency",
+    "url": "https://www.gochinaholidays.com/",
+    "image": "img/portfolio/gochina.webp",
+    "alt": "Go China Holidays Website",
+    "tags": [
+      "Travel & Tourism",
+      "China Tours",
+      "Responsive Website",
+      "Travel Booking"
+    ],
+    "description": [
+      "Go China Holidays is a modern travel platform dedicated to helping\n                  travelers discover China's rich cultural heritage, iconic landmarks,\n                  and unforgettable travel experiences through carefully curated tour\n                  packages.",
+      "SurfUX designed and developed a visually engaging, responsive website\n                  that showcases destinations, travel itineraries, and guided tour\n                  experiences with a clean and intuitive user interface. The platform\n                  was created to inspire confidence while making trip planning simple\n                  and accessible for international travelers.",
+      "The website emphasizes immersive destination imagery, streamlined\n                  navigation, and clear calls-to-action, providing a seamless browsing\n                  experience across desktop, tablet, and mobile devices while\n                  strengthening the brand's global digital presence."
+    ],
+    "features": [
+      "Destination Showcase",
+      "Tour Package Management",
+      "Responsive User Experience",
+      "Conversion-Focused Landing Pages",
+      "SEO & Performance Optimized"
+    ]
+  },
+  {
+    "id": "courierflex-ui-ux-design",
+    "title": "CourierFlex UI/UX Design",
+    "year": "January 2026",
+    "type": "UI/UX Design Project",
+    "url": "",
+    "image": "img/portfolio/courierflex.webp",
+    "alt": "CourierFlex courier service landing page UI UX design created by SurfUX",
+    "tags": [
+      "UI/UX Design",
+      "Courier Website",
+      "Landing Page Design"
+    ],
+    "description": [
+      "This UI/UX design project was created for CourierFlex, a modern\n                  courier and delivery service platform focused on fast, reliable,\n                  and user-friendly parcel delivery experiences.",
+      "The interface was carefully designed to provide a clean visual\n                  hierarchy, engaging layout composition, and a smooth user journey.\n                  The landing page combines modern typography, strategic spacing,\n                  and vibrant branding elements to improve user engagement and\n                  conversion rates while maintaining full responsiveness across all\n                  devices."
+    ],
+    "features": [
+      "Modern UI Design",
+      "User-Centered UX",
+      "Responsive Layout",
+      "Creative Visual Branding"
+    ]
+  },
+  {
+    "id": "go-philippines-holidays",
+    "title": "Go Philippines Holidays",
+    "year": "2025",
+    "type": "International Travel Agency",
+    "url": "https://www.gophilippinesholiday.com/",
+    "image": "img/portfolio/gophilippines.webp",
+    "alt": "Go Philippines Holidays Website",
+    "tags": [
+      "Travel & Tourism",
+      "Philippines Tours",
+      "Responsive Website",
+      "Travel Booking"
+    ],
+    "description": [
+      "Go Philippines Holidays is a travel platform created to inspire\n                  travelers to discover the breathtaking islands, pristine beaches,\n                  vibrant culture, and unforgettable experiences that the Philippines\n                  has to offer.",
+      "SurfUX designed and developed a modern, visually engaging website that\n                  showcases curated tour packages, popular destinations, and personalized\n                  travel experiences. The user interface was crafted to simplify trip\n                  planning while encouraging visitors to confidently explore and book\n                  their next adventure.",
+      "Built with a responsive, performance-focused design, the platform\n                  delivers a seamless browsing experience across desktop, tablet, and\n                  mobile devices while strengthening the brand's digital presence and\n                  increasing customer engagement."
+    ],
+    "features": [
+      "Destination Showcase",
+      "Curated Tour Packages",
+      "Responsive User Experience",
+      "Lead Generation & Inquiry Forms",
+      "SEO & Performance Optimized"
+    ]
+  },
+  {
+    "id": "maniq-ceylon-e-catalogue-platform",
+    "title": "Maniq Ceylon – E-Catalogue Platform",
+    "year": "2025",
+    "type": "Luxury Gemstone Brand",
+    "url": "#",
+    "image": "img/portfolio/book.webp",
+    "alt": "Maniq Ceylon Gem Catalogue Interface",
+    "tags": [
+      "E-Catalogue",
+      "Natural Gemstones",
+      "Luxury Experience",
+      "Global Buyers"
+    ],
+    "description": [
+      "Maniq Ceylon’s e-catalogue is a premium digital platform designed to\n                  showcase rare, natural gemstones in a refined and visually immersive\n                  environment.",
+      "SurfUX developed this catalogue experience to simplify how global\n                  buyers explore and discover gemstones. The interface allows users to\n                  browse by gemstone type such as Blue Sapphire, Padparadscha, Spinel,\n                  and Zircon while maintaining a clean, luxury focused presentation.",
+      "Each gemstone is presented with clarity and elegance, ensuring that\n                  attention remains on color, cut, and brilliance key factors in\n                  high value gemstone selection."
+    ],
+    "features": [
+      "Category-Based Gem Browsing",
+      "Luxury Minimal UI Design",
+      "High Quality Visual Presentation",
+      "Real Time Availability Status",
+      "Optimized for Global Buyers"
+    ]
+  },
+  {
+    "id": "architecture-portfolio-ui-ux-design",
+    "title": "Architecture Portfolio UI/UX Design",
+    "year": "February 2026",
+    "type": "UI/UX Design Portfolio",
+    "url": "",
+    "image": "img/portfolio/architecture.webp",
+    "alt": "Modern architecture portfolio UI UX design created by SurfUX",
+    "tags": [
+      "Architecture Portfolio",
+      "UI/UX Design",
+      "Personal Branding"
+    ],
+    "description": [
+      "This UI/UX design project was developed for a modern architecture\n                  portfolio website focused on showcasing personal branding,\n                  creative direction, and professional architectural services.",
+      "The design approach combines a minimal dark aesthetic with bold\n                  typography, cinematic visual presentation, and strategic layout\n                  composition to create a premium digital experience. Special\n                  attention was given to portfolio visibility, user engagement,\n                  responsive performance, and elegant interaction flow to ensure the\n                  website reflects both creativity and professionalism."
+    ],
+    "features": [
+      "Luxury Dark UI",
+      "Modern Typography",
+      "Responsive Experience",
+      "Creative Portfolio Layout"
+    ]
+  },
+  {
+    "id": "great-ocean-tours",
+    "title": "Great Ocean Tours",
+    "year": "2025",
+    "type": "International Travel Company",
+    "url": "https://www.greatoceantours.com/",
+    "image": "img/portfolio/got.webp",
+    "alt": "Great Ocean Tours Website",
+    "tags": [
+      "Travel & Tourism",
+      "International Tours",
+      "Responsive Website",
+      "Corporate Travel"
+    ],
+    "description": [
+      "Great Ocean Tours is an international travel company providing\n                  customized travel experiences and ground handling services across\n                  Hong Kong, the Philippines, India, and other destinations.",
+      "SurfUX designed and developed a modern, conversion-focused website\n                  that showcases the company's travel expertise, destination services,\n                  and international tour packages. The design combines immersive\n                  visuals with intuitive navigation to help travelers confidently\n                  explore destinations and submit tour inquiries.",
+      "Built with a responsive, performance-driven architecture, the\n                  platform delivers a consistent experience across desktop, tablet,\n                  and mobile devices while strengthening the company's global digital\n                  presence and supporting future business growth."
+    ],
+    "features": [
+      "Multi-Destination Travel Platform",
+      "Custom Tour Inquiry System",
+      "Responsive User Experience",
+      "Corporate Brand Identity",
+      "SEO & Performance Optimized"
+    ]
+  },
+  {
+    "id": "liyan-maniq",
+    "title": "Liyan Maniq",
+    "year": "2025",
+    "type": "Premium Gemstone Brand",
+    "url": "https://liyanmaniq.com/",
+    "image": "img/portfolio/liyan.webp",
+    "alt": "Liyan Maniq Natural Gemstones",
+    "tags": [
+      "Natural Gemstones",
+      "Sri Lankan Gems",
+      "Luxury Brand",
+      "Global Export"
+    ],
+    "description": [
+      "Liyan Maniq is a premium gemstone brand specializing in ethically\n                  sourced, natural gemstones from Sri Lanka and Madagascar.",
+      "SurfUX partnered with Liyan Maniq to create a refined digital presence\n                  that reflects trust, luxury, and authenticity. The goal was to present\n                  gemstones not just as products, but as rare investments and timeless\n                  pieces of natural beauty.",
+      "The platform was designed to highlight transparency from mine to\n                  market while delivering a seamless browsing experience for global\n                  buyers seeking certified, high-quality gemstones."
+    ],
+    "features": [
+      "Ethically Sourced Gemstones",
+      "Mine-to-Market Transparency",
+      "Luxury Brand Positioning",
+      "Global Customer Reach",
+      "Trust-Driven Experience"
+    ]
+  },
+  {
+    "id": "aurumflux-ui-ux-design",
+    "title": "AurumFlux UI/UX Design",
+    "year": "March 2026",
+    "type": "Technology Website UI/UX",
+    "url": "",
+    "image": "img/portfolio/aurum.webp",
+    "alt": "AurumFlux modern technology website UI UX homepage design by SurfUX",
+    "tags": [
+      "Technology UI",
+      "AI Solutions",
+      "Modern Web Design"
+    ],
+    "description": [
+      "This UI/UX design project was created for AurumFlux, a modern\n                  digital technology company focused on AI solutions, IoT systems,\n                  data analytics, and digital transformation services.",
+      "The website interface was designed with a futuristic dark-themed\n                  visual style combined with premium typography, modern layouts, and\n                  strategic user experience principles. The design emphasizes\n                  innovation, scalability, and professionalism while creating a\n                  smooth and engaging browsing experience across desktop and mobile\n                  devices.",
+      "Special attention was given to service presentation, visual\n                  hierarchy, interaction flow, and conversion-focused call-to-action\n                  sections to strengthen the brand’s digital identity and improve\n                  user engagement."
+    ],
+    "features": [
+      "Dark Modern UI",
+      "AI Technology Branding",
+      "Responsive UX Design",
+      "Conversion Focused Layout"
+    ]
+  },
+  {
+    "id": "ciats",
+    "title": "CIATS",
+    "year": "2026",
+    "type": "Surveying & Technical Education Institute",
+    "url": "#",
+    "image": "img/portfolio/ciat.webp",
+    "alt": "CIATS Surveying and Education Platform",
+    "tags": [
+      "Surveying Services",
+      "Technical Education",
+      "Geospatial Solutions",
+      "Professional Training"
+    ],
+    "description": [
+      "CIATS is a Sri Lankan institute specializing in professional\n                  surveying services and industry focused technical education.",
+      "This project focused on creating a strong, professional digital\n                  presence that reflects the institute’s expertise, credibility,\n                  and contribution to national development. The website highlights\n                  both service offerings and training programs, positioning CIATS\n                  as a trusted partner for industries and an educational pathway\n                  for future professionals.",
+      "The platform was designed to balance technical authority with\n                  accessibility, ensuring clear communication of services,\n                  practical learning opportunities, and modern surveying solutions."
+    ],
+    "features": [
+      "Advanced Surveying Solutions",
+      "Industry Focused Training Programs",
+      "Modern Geospatial Technology",
+      "Experienced Technical Experts",
+      "Education & Industry Integration"
+    ]
+  },
+  {
+    "id": "park-n-ride-ui-ux-design",
+    "title": "Park N Ride UI/UX Design",
+    "year": "April 2026",
+    "type": "Airport Parking UI/UX Design",
+    "url": "",
+    "image": "img/portfolio/park.webp",
+    "alt": "Park N Ride airport parking booking platform UI UX design created by SurfUX",
+    "tags": [
+      "Airport Parking",
+      "Booking Platform",
+      "UI/UX Design"
+    ],
+    "description": [
+      "This UI/UX design project was developed for Park N Ride, an\n                  airport parking and shuttle booking platform focused on providing\n                  travelers with a simple, reliable, and stress-free parking\n                  experience.",
+      "The interface was designed with a modern and user-friendly layout\n                  that allows users to quickly search, compare, and reserve airport\n                  parking services with ease. The design combines strong visual\n                  hierarchy, responsive layouts, and clean booking workflows to\n                  improve usability and increase customer engagement.",
+      "Special attention was given to the booking section, call-to-action\n                  areas, and accessibility across all devices to create a seamless\n                  experience for users planning airport transportation and parking\n                  services online."
+    ],
+    "features": [
+      "Modern Booking UI",
+      "Responsive Design",
+      "User-Friendly Experience",
+      "Airport Service Branding"
+    ]
+  },
+  {
+    "id": "spamshield",
+    "title": "SpamShield",
+    "year": "February 2026",
+    "type": "AI-Powered SaaS Product",
+    "url": "https://getspamshield.com/",
+    "image": "img/portfolio/spamshield.webp",
+    "alt": "SpamShield AI Spam Protection Dashboard",
+    "tags": [
+      "Cyber Security",
+      "AI Spam Protection",
+      "SaaS Platform",
+      "Form Security"
+    ],
+    "description": [
+      "SpamShield is an AI-powered spam protection platform designed to\n                  block bots and unwanted submissions without disrupting real users.",
+      "SurfUX partnered with SpamShield to support the product’s digital\n                  presence through strategic positioning, user focused design, and\n                  clear product storytelling. The goal was to communicate trust,\n                  simplicity, and technical credibility to both developers and\n                  businesses.",
+      "The solution emphasizes seamless integration, no-captcha protection,\n                  and long-term reliability helping businesses secure their forms while\n                  maintaining a smooth user experience."
+    ],
+    "features": [
+      "AI-Based Spam Detection",
+      "No Captcha User Experience",
+      "Developer Friendly Integration",
+      "High Conversion Form Security",
+      "Scalable SaaS Architecture"
+    ]
+  },
+  {
+    "id": "velvora-travels",
+    "title": "Velvora Travels",
+    "year": "January 2026",
+    "type": "Velvora Travels",
+    "url": "https://velvoratravels.com/",
+    "image": "img/portfolio/velvora.webp",
+    "alt": "Velvora Travels Website",
+    "tags": [
+      "Luxury Travel",
+      "Sri Lanka Tours",
+      "Adventure & Culture",
+      "Wellness Travel"
+    ],
+    "description": [
+      "Velvora Travels is a luxury travel company connecting\n                  European travellers with curated journeys across Sri Lanka,\n                  with expanding destinations across the Maldives and Asia.",
+      "This project focused on building a visually immersive,\n                  modern travel platform that showcases signature tour\n                  experiences including adventure, cultural heritage,\n                  wildlife, wellness retreats, and romantic escapes. The\n                  website was designed to highlight trust, premium service,\n                  and seamless user experience while making tour selection\n                  simple and engaging."
+    ],
+    "features": [
+      "Luxury Curated Tours",
+      "Local Expert Guides",
+      "Verified Hotels & Transport",
+      "24/7 Personal Support",
+      "Multi-Destination Growth"
+    ]
+  },
+  {
+    "id": "nutridry-ceylon",
+    "title": "NutriDry Ceylon",
+    "year": "December 2025",
+    "type": "NutriDry Ceylon",
+    "url": "https://nutridryceylon.com",
+    "image": "img/portfolio/nutridry.webp",
+    "alt": "NutriDry Ceylon Website",
+    "tags": [
+      "Dehydrated Fruits",
+      "Healthy Snacks",
+      "Natural Products"
+    ],
+    "description": [
+      "This project involved designing and developing a clean,\n                  modern website for NutriDry Ceylon, a Sri Lankan brand\n                  specializing in premium dehydrated fruits and vegetables\n                  made from carefully selected local produce.",
+      "The website communicates the brand’s commitment to natural\n                  goodness, quality, and nutrition through a fresh visual\n                  identity and clear content structure. Emphasis was placed on\n                  showcasing product benefits, origin, and healthy lifestyle\n                  use cases while ensuring a smooth, engaging browsing\n                  experience across all devices."
+    ],
+    "features": [
+      "100% Natural",
+      "No Added Sugar",
+      "No Preservatives",
+      "Premium Sri Lankan Produce"
+    ]
+  },
+  {
+    "id": "ceyluxe",
+    "title": "Ceyluxe",
+    "year": "November 2025",
+    "type": "Ceyluxe",
+    "url": "https://ceyluxeco.com/",
+    "image": "img/portfolio/ceyluxco.webp",
+    "alt": "Portfolio Image",
+    "tags": [
+      "Cinnamon",
+      "Spice",
+      "Health"
+    ],
+    "description": [
+      "This website was developed for Ceyluxe, a Sri Lankan company\n                  specializing in premium cinnamon-based products.",
+      "The project focused on creating a visually appealing and\n                  modern online presence that reflects the quality and\n                  authenticity of the brand. The platform highlights product\n                  details, brand story, and customer value while offering a\n                  smooth browsing and purchase experience."
+    ],
+    "features": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "JAVASCRIPT"
+    ]
+  },
+  {
+    "id": "pest-control-service",
+    "title": "Pest Control Service",
+    "year": "October 2025",
+    "type": "Tanga Pest Control",
+    "url": "https://pestmanagement.lk/",
+    "image": "img/portfolio/tanga.webp",
+    "alt": "Portfolio Image",
+    "tags": [
+      "Pest Control",
+      "Termite Control",
+      "Rodent Control"
+    ],
+    "description": [
+      "This project focused on designing and developing a modern,\n                  responsive website for Tanga Pest Control to strengthen\n                  their digital presence and clearly communicate their\n                  services.",
+      "The website presents pest, termite, and rodent control\n                  solutions in a clean and professional layout, ensuring easy\n                  navigation and accessibility across all devices. Emphasis\n                  was placed on trust, clarity, and user experience to help\n                  convert visitors into potential customers."
+    ],
+    "features": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "JAVA SCRIPT"
+    ]
+  },
+  {
+    "id": "suren-dissanayaka",
+    "title": "Suren Dissanayaka",
+    "year": "September 2025",
+    "type": "Suren Dissanayaka",
+    "url": "https://www.surendassanayake.com/",
+    "image": "img/portfolio/suren.webp",
+    "alt": "Portfolio Image",
+    "tags": [
+      "Architect",
+      "Interior Design",
+      "Residential Design"
+    ],
+    "description": [
+      "This project involved designing and developing a clean,\n                  modern portfolio website for Suren Dissanayaka, a Chartered\n                  Architect in Sri Lanka.",
+      "The website showcases selected architectural works with a\n                  strong emphasis on visual presentation, clarity, and\n                  professional identity. A minimalist layout, thoughtful\n                  typography, and smooth user experience were implemented to\n                  reflect the architect’s design philosophy while ensuring\n                  accessibility and responsiveness across all devices."
+    ],
+    "features": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "JAVASCRIPT"
+    ]
+  },
+  {
+    "id": "hikka-tours",
+    "title": "Hikka Tours",
+    "year": "August 2025",
+    "type": "Hikka Tours",
+    "url": "https://hikkatours.com/",
+    "image": "img/portfolio/hikka.webp",
+    "alt": "Portfolio Image",
+    "tags": [
+      "Tours",
+      "Adventure",
+      "Discover"
+    ],
+    "description": [
+      "This project involved designing and developing a modern,\n                  user-friendly website for Hikka Tours, a Sri Lankan tourism\n                  company offering curated travel experiences.",
+      "The website showcases tour packages, destinations, and\n                  services with a visually engaging layout that inspires\n                  travel while maintaining clear navigation and accessibility.\n                  A strong focus was placed on performance, responsiveness,\n                  and lead generation to help convert visitors into inquiries\n                  and bookings across all devices."
+    ],
+    "features": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "JAVASCRIPT"
+    ]
+  },
+  {
+    "id": "dnd-architecture",
+    "title": "DnD Architecture",
+    "year": "July 2025",
+    "type": "DnD Architecture",
+    "url": "https://dndarchitec.com/",
+    "image": "img/portfolio/dd.webp",
+    "alt": "Portfolio Image",
+    "tags": [
+      "Architecture",
+      "Professional",
+      "Sustainable"
+    ],
+    "description": [
+      "DnD Architecture is a Sri Lankan architectural firm known\n                  for modern and functional design solutions.",
+      "This website was created to showcase their services,\n                  portfolio, and expertise in residential and commercial\n                  architecture. The design focuses on a clean, professional\n                  look with responsive layouts and easy navigation, ensuring\n                  clients can quickly explore projects and request\n                  consultations."
+    ],
+    "features": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "JAVASCRIPT"
+    ]
+  },
+  {
+    "id": "gihan-supun",
+    "title": "Gihan Supun",
+    "year": "June 2025",
+    "type": "Gihan Supun",
+    "url": "https://gihansupun.com/",
+    "image": "img/portfolio/gihan.webp",
+    "alt": "Portfolio Image",
+    "tags": [
+      "UI/UX Development",
+      "Front End",
+      "UI/UX Development"
+    ],
+    "description": [
+      "This portfolio website was designed for Gihan Supun, a\n                  senior UI/UX engineer from Sri Lanka with extensive\n                  international experience across Australia, the UK, UAE,\n                  Canada, and Europe.",
+      "The platform showcases his professional journey, design\n                  approach, and diverse project portfolio in a clean, modern,\n                  and user-focused layout. The website includes dedicated\n                  sections for case studies, skills, testimonials, and career\n                  highlights, offering a clear representation of his expertise\n                  while making it easy for potential clients and employers to\n                  connect."
+    ],
+    "features": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "JAVASCRIPT"
+    ]
+  }
+]
