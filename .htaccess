@@ -17,5 +17,9 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.+?)/?$ $1.php [L]
 
-# Prevent directory listings.
-Options -Indexes
+
+
+# Prevent accidental web access to environment/config files.
+<FilesMatch "^(\.env.*|surfux-smtp-config.*\.php)$">
+    Require all denied
+</FilesMatch>

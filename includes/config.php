@@ -1,7 +1,15 @@
 <?php
-$script_dir = str_replace('\\\\', '/', dirname($_SERVER['SCRIPT_NAME'] ?? ''));
-$base_from_request = preg_replace('#/pages$#', '', $script_dir);
-define('BASE_URL', $base_from_request === '/' ? '' : rtrim($base_from_request, '/'));
+// Resolve installation path from the filesystem so BASE_URL remains correct
+// when clean URLs are internally rewritten to PHP files.
+$document_root = realpath($_SERVER['DOCUMENT_ROOT'] ?? '') ?: '';
+$project_root = realpath(__DIR__ . '/..') ?: dirname(__DIR__);
+$base_url = '';
+if ($document_root !== '' && strpos($project_root, $document_root) === 0) {
+    $base_url = str_replace('\\', '/', substr($project_root, strlen($document_root)));
+}
+$base_url = '/' . trim($base_url, '/');
+if ($base_url === '/') { $base_url = ''; }
+define('BASE_URL', $base_url);
 define('SITE_NAME', 'SurfUX');
 
 $projects = [

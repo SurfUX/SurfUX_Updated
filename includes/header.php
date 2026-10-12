@@ -43,7 +43,7 @@ $current = $current === '' ? 'index' : basename($current);
   <div class="container nav-wrap">
 
     
-    <a href="<?= BASE_URL ?>/index" class="logo d-flex align-items-center">
+    <a href="<?= BASE_URL ?>/" class="logo d-flex align-items-center">
           <!-- Uncomment the line below if you also wish to use an image logo -->
          <img src="<?= BASE_URL ?>/assets/img/portfolio/logo.webp" > 
           <!-- <h1 class="sitename">SurfUX</h1> -->
@@ -57,7 +57,7 @@ $current = $current === '' ? 'index' : basename($current);
     <nav class="main-nav">
 
       <a class="<?= $current==='index'?'active':'' ?>"
-         href="<?= BASE_URL ?>/index">
+         href="<?= BASE_URL ?>/">
         Home
       </a>
 

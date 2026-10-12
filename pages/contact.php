@@ -70,14 +70,42 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             |--------------------------------------------------------------------------
             */
 
-            $smtp_host = getenv('SURFUX_SMTP_HOST') ?: 'smtp.gmail.com';
-            $smtp_username = getenv('SURFUX_SMTP_USERNAME') ?: '';
-            $smtp_password = getenv('SURFUX_SMTP_PASSWORD') ?: '';
-            $smtp_from = getenv('SURFUX_MAIL_FROM') ?: $smtp_username;
-            $smtp_to = getenv('SURFUX_MAIL_TO') ?: 'gihan@surfux.com';
+            // Prefer environment variables. On Hostinger shared hosting, a private
+            // PHP config file one directory above public_html is also supported.
+            // Never put real credentials in this public project directory.
+            $privateConfigPath = dirname(__DIR__, 2) . '/surfux-smtp-config.php';
+            $privateConfig = [];
+            if (is_file($privateConfigPath) && is_readable($privateConfigPath)) {
+                $loadedConfig = require $privateConfigPath;
+                if (is_array($loadedConfig)) {
+                    $privateConfig = $loadedConfig;
+                }
+            }
 
-            if ($smtp_username === '' || $smtp_password === '' || $smtp_from === '') {
-                throw new Exception('Email is not configured. Set the SurfUX SMTP environment variables in the hosting environment.');
+            $setting = static function (string $envName, string $configKey, string $default = '') use ($privateConfig): string {
+                $envValue = getenv($envName);
+                if ($envValue !== false && trim((string) $envValue) !== '') {
+                    return trim((string) $envValue);
+                }
+                return isset($privateConfig[$configKey])
+                    ? trim((string) $privateConfig[$configKey])
+                    : $default;
+            };
+
+            $smtp_host = $setting('SURFUX_SMTP_HOST', 'host', 'smtp.gmail.com');
+            $smtp_username = $setting('SURFUX_SMTP_USERNAME', 'username');
+            $smtp_password = str_replace(' ', '', $setting('SURFUX_SMTP_PASSWORD', 'password'));
+            $smtp_from = $setting('SURFUX_MAIL_FROM', 'from', $smtp_username);
+            $smtp_to = $setting('SURFUX_MAIL_TO', 'to', 'gihan@surfux.com');
+
+            if ($smtp_username === '' || $smtp_password === '' || $smtp_from === '' || $smtp_to === '') {
+                throw new Exception('Email configuration is missing. Configure the private SurfUX SMTP file or the SMTP environment variables.');
+            }
+
+            if (!filter_var($smtp_username, FILTER_VALIDATE_EMAIL) ||
+                !filter_var($smtp_from, FILTER_VALIDATE_EMAIL) ||
+                !filter_var($smtp_to, FILTER_VALIDATE_EMAIL)) {
+                throw new Exception('SMTP username, sender, and recipient must be valid email addresses.');
             }
 
             $mail->isSMTP();
@@ -333,7 +361,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             error_log(
                 'SurfUX Contact Form Error: ' .
-                $mail->ErrorInfo
+                ($mail->ErrorInfo !== '' ? $mail->ErrorInfo . ' | ' : '') .
+                $e->getMessage()
             );
         }
     }
