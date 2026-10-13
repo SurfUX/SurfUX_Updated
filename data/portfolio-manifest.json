@@ -84,6 +84,36 @@
     ]
   },
   {
+    "id": "guruge-elders-care-caresphere-resident",
+    "title": "Guruge Elders Care – CareSphere Resident",
+    "year": "2026",
+    "type": "Elder Care Management System Implementation",
+    "url": "",
+    "image": "img/portfolio/guruge.webp",
+    "alt": "CareSphere Resident management system implemented by SurfUX for Guruge Elders Care in Panadura, Sri Lanka",
+    "tags": [
+      "CareSphere Resident",
+      "Guruge Elders Care",
+      "Elder Care",
+      "Custom Software",
+      "Digital Transformation",
+      "Software Implementation"
+    ],
+    "description": [
+      "SurfUX successfully implemented CareSphere Resident for Guruge Elders Care in Panadura, Sri Lanka, delivering a dedicated digital solution to support the organization's elder-care management operations.",
+      "CareSphere Resident is part of the CareSphere ecosystem, developed by SurfUX to help residential care organizations organize resident information and essential operational workflows through a centralized digital platform.",
+      "This implementation represents SurfUX's commitment to delivering practical software solutions for Sri Lankan care organizations, supporting their digital transformation through modern technology and structured management processes."
+    ],
+    "features": [
+      "Resident Information Management",
+      "Centralized Care Records",
+      "Digital Management Workflows",
+      "Residential Care Operations",
+      "Organized Information Access",
+      "Digital Transformation"
+    ]
+  },
+  {
     "id": "caresphere-charity",
     "title": "CareSphere Charity",
     "year": "2026",
@@ -113,30 +143,32 @@
   },
   {
     "id": "candleaid-lanka",
-    "title": "CandleAid Lanka – Management System",
+    "title": "CandleAid Lanka – Custom Digital Management System",
     "year": "2026",
-    "type": "Charity & Non-Profit Management System",
+    "type": "Charity & Non-Profit Management Software",
     "url": "",
     "image": "img/portfolio/candleaid.webp",
-    "alt": "CandleAid Lanka Management System developed by SurfUX",
+    "alt": "CandleAid Lanka custom digital management system developed by SurfUX, founded by Capt. Elmo Jayawardena and Dil Jayawardena",
     "tags": [
-      "Charity Management",
+      "CandleAid Lanka",
+      "Custom Software Development",
+      "Charity Management Software",
       "Non-Profit Management",
-      "Management System",
-      "Software Solution"
+      "Digital Transformation",
+      "Management System"
     ],
     "description": [
-      "CandleAid Lanka is a non-profit organization that supports people and communities through humanitarian and social support initiatives. SurfUX developed a centralized software solution to help organize its operational information and reduce dependence on traditional manual records and spreadsheets.",
-      "The system provides a structured digital environment for managing organizational data and day-to-day workflows, helping staff access information more efficiently while improving consistency across records and operations.",
-      "Designed as a practical management solution for a real-world non-profit organization, the platform supports a more organized approach to administration, reporting, and information management."
+      "CandleAid Lanka, founded by Capt. Elmo Jayawardena and Dil Jayawardena, is a non-profit organization supporting humanitarian and social initiatives. SurfUX developed a customized digital management system for CandleAid Lanka to help transform large-scale Excel-based and manual processes into a more structured and centralized software environment.",
+      "The CandleAid Lanka management system was designed around the organization's operational requirements, providing a centralized digital environment for organizing information and managing day-to-day workflows. The solution helps make important operational data easier to access and supports a more consistent approach to information management.",
+      "This project demonstrates SurfUX's expertise in custom software development in Sri Lanka, delivering practical digital solutions that address real organizational challenges. By moving away from complex spreadsheet-based processes towards a dedicated management system, CandleAid Lanka gains a more organized digital foundation to support its evolving administrative and operational needs."
     ],
     "features": [
-      "Centralized Data Management",
+      "Centralized Digital Information Management",
       "Organizational Records Management",
-      "Digital Workflow Management",
-      "Reporting & Information Management",
-      "Structured Operational Data",
-      "Reduced Manual Administration"
+      "Structured Digital Workflows",
+      "Improved Access to Operational Data",
+      "Excel-Based Process Transformation",
+      "Reduced Dependence on Manual Administration"
     ]
   },
   {

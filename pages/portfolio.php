@@ -303,6 +303,7 @@ foreach ($portfolio as $p) {
                             in_array(
                                 $p['id'],
                                 [
+                                    'guruge-elders-care-caresphere-resident',
                                     'caresphere-elder',
                                     'caresphere-child',
                                     'caresphere-residential',

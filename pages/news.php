@@ -5,35 +5,64 @@ $page_title = 'News & Insights | SurfUX';
 
 $news = [
 
-    /*
+/*
     |--------------------------------------------------------------------------
-    | 01. CARESPHERE — PRODUCT LAUNCH
+    | 02. CANDLEAID LANKA
     |--------------------------------------------------------------------------
     */
     [
-        'id' => 'caresphere-integrated-care-management-platform',
+        'id' => 'candleaid-lanka-digital-management-system',
 
-        'title' => 'SurfUX Launches CareSphere: An Integrated Care Management Platform',
+        'title' => 'CandleAid Lanka Digital Transformation: Capt. Elmo Jayawardena & Dil Jayawardena',
 
-        'category' => 'PRODUCT LAUNCH',
+        'category' => 'DIGITAL TRANSFORMATION',
 
         'date' => 'September 2026',
 
-        'image' => BASE_URL . '/assets/img/portfolio/carehero.webp',
+        'image' => BASE_URL . '/assets/img/portfolio/candleaid.webp',
 
-        'text' => 'SurfUX introduces CareSphere, an integrated care management platform designed for elder care, child care, residential care and charity organizations, bringing people, operations, records and workflows into one connected digital environment.',
+        'text' => 'SurfUX developed a customized digital management system for CandleAid Lanka, founded by Capt. Elmo Jayawardena and Dil Jayawardena, helping transform large-scale Excel-based and manual processes into a more structured and centralized software environment.',
 
-        'seo_title' => 'CareSphere | Integrated Care Management Platform | SurfUX',
+        'seo_title' => 'CandleAid Lanka Software | Elmo Jayawardena & Dil Jayawardena | SurfUX',
 
-        'seo_description' => 'Discover CareSphere by SurfUX, an integrated care management platform for elder care, child care, residential care and charity organizations.',
+        'seo_description' => 'Discover how SurfUX developed a custom digital management system for CandleAid Lanka, founded by Capt. Elmo Jayawardena and Dil Jayawardena, to organize Excel-based and manual processes.',
 
-        'keywords' => 'care management software, care management platform, elder care management software, elder home management system, child care management software, residential care management software, charity management software, digital care management'
+        'keywords' => 'CandleAid Lanka, Capt. Elmo Jayawardena, Elmo Jayawardena, Dil Jayawardena, CandleAid Lanka founders, CandleAid Lanka digital management system, custom management software Sri Lanka, digital management system, Excel to software solution, custom software development Sri Lanka'
     ],
 
 
     /*
     |--------------------------------------------------------------------------
-    | 02. ALOKA ELDER HOME
+    | 01. CARESPHERE RESIDENT — GURUGE ELDERS CARE
+    |--------------------------------------------------------------------------
+    */
+    [
+        'id' => 'guruge-elders-care-caresphere-resident',
+
+        'title' => 'Supporting Better Elder Care Management: CareSphere Resident for Guruge Elders Care',
+
+        'category' => 'ELDER CARE TECHNOLOGY',
+
+        'date' => 'October 2026',
+
+        'image' => BASE_URL . '/assets/img/portfolio/guruge.webp',
+
+        'text' => 'SurfUX delivered CareSphere Resident to Guruge Elders Care in Panadura, bringing purpose-built digital support to resident information management and the everyday administration of an elder-care organization.',
+
+        'seo_title' => 'CareSphere Resident for Guruge Elders Care | SurfUX',
+
+        'seo_description' => 'Discover how SurfUX delivered CareSphere Resident to Guruge Elders Care in Panadura, supporting more organized resident information management and elder-care administration.',
+
+        'keywords' => 'Guruge Elders Care, Guruge Elder Home Panadura, CareSphere Resident, elder care management software Sri Lanka, elder home management system, resident management software, elder care digital transformation, SurfUX, care management platform'
+    ],
+
+
+    
+
+
+    /*
+    |--------------------------------------------------------------------------
+    | 03. ALOKA ELDER HOME
     |--------------------------------------------------------------------------
     */
     [
@@ -59,28 +88,28 @@ $news = [
 
     /*
     |--------------------------------------------------------------------------
-    | 03. CANDLEAID LANKA
+    | 04. CARESPHERE — PRODUCT LAUNCH
     |--------------------------------------------------------------------------
     */
     [
-        'id' => 'candleaid-lanka-digital-management-system',
+        'id' => 'caresphere-integrated-care-management-platform',
 
-        'title' => 'From Complex Excel Sheets to a Centralized Digital System: CandleAid Lanka',
+        'title' => 'SurfUX Launches CareSphere: An Integrated Care Management Platform',
 
-        'category' => 'DIGITAL TRANSFORMATION',
+        'category' => 'PRODUCT LAUNCH',
 
         'date' => 'September 2026',
 
-        'image' => BASE_URL . '/assets/img/portfolio/candleaid.webp',
+        'image' => BASE_URL . '/assets/img/portfolio/carehero.webp',
 
-        'text' => 'SurfUX developed a customized digital management system for CandleAid Lanka, helping transform large-scale Excel-based and manual processes into a more structured and centralized software environment.',
+        'text' => 'SurfUX introduces CareSphere, an integrated care management platform designed for elder care, child care, residential care and charity organizations, bringing people, operations, records and workflows into one connected digital environment.',
 
-        'seo_title' => 'CandleAid Lanka Digital Management System | SurfUX',
+        'seo_title' => 'CareSphere | Integrated Care Management Platform | SurfUX',
 
-        'seo_description' => 'SurfUX developed a custom digital management system for CandleAid Lanka, transforming large-scale Excel and manual processes into a centralized software solution.',
+        'seo_description' => 'Discover CareSphere by SurfUX, an integrated care management platform for elder care, child care, residential care and charity organizations.',
 
-        'keywords' => 'custom management software Sri Lanka, digital management system, Excel to software solution, organization management software, custom software development Sri Lanka'
-    ]
+        'keywords' => 'care management software, care management platform, elder care management software, elder home management system, child care management software, residential care management software, charity management software, digital care management'
+    ],
 
 ];
 

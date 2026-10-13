@@ -1,21 +1,31 @@
 <?php
+
 require_once __DIR__ . '/../includes/config.php';
 
-
 /*
+
 |--------------------------------------------------------------------------
+
 | NEWS ARTICLES
+
 |--------------------------------------------------------------------------
+
 */
 
 $news = [
 
     /*
+
     |--------------------------------------------------------------------------
+
     | 01. CARESPHERE — PRODUCT LAUNCH
+
     |--------------------------------------------------------------------------
+
     */
+
     [
+
         'id' => 'caresphere-integrated-care-management-platform',
 
         'title' => 'SurfUX Launches CareSphere: An Integrated Care Management Platform',
@@ -65,9 +75,13 @@ $news = [
         ],
 
         /*
+
         |--------------------------------------------------------------------------
+
         | SEO
+
         |--------------------------------------------------------------------------
+
         */
 
         'seo_title' => 'CareSphere | Integrated Care Management Platform | SurfUX',
@@ -78,13 +92,18 @@ $news = [
 
     ],
 
-
     /*
+
     |--------------------------------------------------------------------------
+
     | 02. ALOKA ELDER HOME
+
     |--------------------------------------------------------------------------
+
     */
+
     [
+
         'id' => 'aloka-elder-home-management-system',
 
         'title' => 'Transforming Elder Home Management: The Aloka Elder Home Digital Journey',
@@ -126,9 +145,13 @@ $news = [
         ],
 
         /*
+
         |--------------------------------------------------------------------------
+
         | SEO
+
         |--------------------------------------------------------------------------
+
         */
 
         'seo_title' => 'Aloka Elder Home Management System | SurfUX',
@@ -139,74 +162,126 @@ $news = [
 
     ],
 
-
     /*
     |--------------------------------------------------------------------------
-    | 03. CANDLEAID LANKA
+    | 03. GURUGE ELDERS CARE — CARESPHERE RESIDENT
     |--------------------------------------------------------------------------
     */
     [
-        'id' => 'candleaid-lanka-digital-management-system',
-
-        'title' => 'From Complex Excel Sheets to a Centralized Digital System: CandleAid Lanka',
-
-        'category' => 'DIGITAL TRANSFORMATION',
-
-        'date' => 'September 2026',
-
-        'image' => BASE_URL . '/assets/img/portfolio/candleaid.webp',
-
-        'intro' => 'SurfUX developed a customized digital management system for CandleAid Lanka, helping transform large-scale Excel-based and manual processes into a more structured and centralized software environment.',
-
+        'id' => 'guruge-elders-care-caresphere-resident',
+        'title' => 'Supporting Better Elder Care Management: CareSphere Resident for Guruge Elders Care',
+        'category' => 'CARE TECHNOLOGY',
+        'date' => 'October 2026',
+        'image' => BASE_URL . '/assets/img/portfolio/guruge.webp',
+        'intro' => 'SurfUX delivered CareSphere Resident to Guruge Elders Care in Panadura, bringing purpose-built digital support to the everyday administration of an elder-care organization and helping create a more organized way to manage resident information and operational activities.',
         'paragraphs' => [
-
-            'As organizations grow, managing large volumes of information through spreadsheets can become increasingly challenging. What may work for a small operation can become difficult to maintain when data, activities and operational requirements continue to expand.',
-
-            'CandleAid Lanka faced challenges associated with managing large-scale information through Excel sheets and manual processes. Working with complex spreadsheets could make information management more difficult, while repetitive manual activities increased the effort required to maintain and review operational data.',
-
-            'To address these challenges, SurfUX developed a dedicated digital management system for CandleAid Lanka. The system was created around the organization’s requirements, helping move important information and workflows from complex spreadsheet-based processes into a more structured digital environment.',
-
-            'The transition to a centralized software system provides a more organized way to manage information and supports easier access to important operational data. It also creates a stronger foundation for future improvements as the organization’s digital requirements continue to evolve.',
-
-            'The CandleAid Lanka project reflects SurfUX’s approach to custom software development: understand the real problem first, then design and develop technology around the way an organization actually works.'
-
+            'Providing quality care for older adults involves more than day-to-day assistance. Care teams and administrators also need to keep resident information organized, maintain admission records, coordinate routine activities and access important details when they are needed. When these responsibilities depend heavily on paper records or scattered information, everyday administration can become more complicated.',
+            'To help address these practical needs, SurfUX delivered CareSphere Resident for Guruge Elders Care in Panadura. The solution is part of CareSphere, SurfUX’s integrated care management platform, developed to help care organizations bring important information and workflows into a more structured digital environment.',
+            'CareSphere Resident is focused on the operational needs of residential and elder-care settings. It provides a digital foundation for organizing resident-related information and supporting administrative workflows, helping staff manage information more consistently and making essential records easier to access.',
+            'A more structured digital workflow can also support the wider administration of an elder-care home. Depending on the organization’s operating processes, areas such as admission information, daily administration, booking and availability details, and operational reporting can be organized with greater clarity than disconnected manual records allow.',
+            'For Guruge Elders Care, this delivery represents a practical step toward using purpose-built software to support its work. Rather than treating technology as a generic add-on, SurfUX focuses on understanding the needs of care organizations and shaping digital solutions around the responsibilities involved in managing a care environment.',
+            'The project also reflects the broader direction of CareSphere: developing dedicated solutions for organizations that care for people and communities. With CareSphere Resident, SurfUX continues to build on its experience in elder-care technology and its commitment to making everyday care administration more organized through thoughtful digital solutions.'
         ],
-
         'highlights' => [
-
-            'Custom organizational management software',
-
-            'Centralized information management',
-
-            'Reduced dependency on complex Excel sheets',
-
-            'Structured operational workflows',
-
-            'Digital foundation for future growth'
-
+            'CareSphere Resident delivered to Guruge Elders Care, Panadura',
+            'Digital support for resident information management',
+            'Structured resident and admission-related records',
+            'Support for everyday elder-care administration',
+            'A more organized digital workflow for care operations',
+            'Part of SurfUX’s integrated CareSphere platform'
         ],
-
         /*
         |--------------------------------------------------------------------------
         | SEO
         |--------------------------------------------------------------------------
         */
+        'seo_title' => 'CareSphere Resident for Guruge Elders Care | SurfUX',
+        'seo_description' => 'Discover how SurfUX delivered CareSphere Resident to Guruge Elders Care in Panadura, supporting more organized resident information management and elder-care administration.',
+        'seo_keywords' => 'Guruge Elders Care, Guruge Elder Home Panadura, CareSphere Resident, elder care management software Sri Lanka, elder home management system, resident management software, elder care digital transformation, SurfUX, care management platform'
+    ],
 
-        'seo_title' => 'CandleAid Lanka Digital Management System | SurfUX',
+        /*
 
-        'seo_description' => 'SurfUX developed a custom digital management system for CandleAid Lanka, transforming large-scale Excel and manual processes into a centralized software solution.',
+|--------------------------------------------------------------------------
 
-        'seo_keywords' => 'custom management software Sri Lanka, digital management system, Excel to software solution, organization management software, custom software development Sri Lanka, digital transformation Sri Lanka'
+| 04. CANDLEAID LANKA
 
-    ]
+|--------------------------------------------------------------------------
+
+*/
+
+[
+
+    'id' => 'candleaid-lanka-digital-management-system',
+
+    'title' => 'CandleAid Lanka Digital Transformation: Capt. Elmo Jayawardena & Dil Jayawardena',
+
+    'category' => 'DIGITAL TRANSFORMATION',
+
+    'date' => 'September 2026',
+
+    'image' => BASE_URL . '/assets/img/portfolio/candleaid.webp',
+
+    'intro' => 'SurfUX developed a customized digital management system for CandleAid Lanka, founded by Capt. Elmo Jayawardena and Dil Jayawardena, helping transform large-scale Excel-based and manual processes into a more structured and centralized software environment.',
+
+    'paragraphs' => [
+
+        'As organizations grow, managing large volumes of information through spreadsheets can become increasingly challenging. What may work for a small operation can become difficult to maintain when data, activities and operational requirements continue to expand.',
+
+        'CandleAid Lanka, founded by Capt. Elmo Jayawardena and Dil Jayawardena, faced challenges associated with managing large-scale information through Excel sheets and manual processes. Working with complex spreadsheets could make information management more difficult, while repetitive manual activities increased the effort required to maintain and review operational data.',
+
+        'To address these challenges, SurfUX developed a dedicated digital management system for CandleAid Lanka. The system was created around the organization’s requirements, helping move important information and workflows from complex spreadsheet-based processes into a more structured digital environment.',
+
+        'The transition to a centralized software system provides a more organized way to manage information and supports easier access to important operational data. It also creates a stronger foundation for future improvements as the organization’s digital requirements continue to evolve.',
+
+        'The CandleAid Lanka project reflects SurfUX’s approach to custom software development: understand the real problem first, then design and develop technology around the way an organization actually works. By supporting the organization founded by Capt. Elmo Jayawardena and Dil Jayawardena with a customized digital management system, SurfUX demonstrates how tailored software can help organizations improve information management and prepare for future digital growth.'
+
+    ],
+
+    'highlights' => [
+
+        'CandleAid Lanka founders: Capt. Elmo Jayawardena and Dil Jayawardena',
+
+        'Custom organizational management software',
+
+        'Centralized information management',
+
+        'Reduced dependency on complex Excel sheets',
+
+        'Structured operational workflows',
+
+        'Digital foundation for future growth'
+
+    ],
+
+    /*
+
+    |--------------------------------------------------------------------------
+
+    | SEO
+
+    |--------------------------------------------------------------------------
+
+    */
+
+    'seo_title' => 'CandleAid Lanka Software | Capt. Elmo & Dil Jayawardena | SurfUX',
+
+    'seo_description' => 'Discover how SurfUX developed a custom digital management system for CandleAid Lanka, founded by Capt. Elmo Jayawardena and Dil Jayawardena, to organize Excel-based and manual processes.',
+
+    'seo_keywords' => 'CandleAid Lanka, Capt. Elmo Jayawardena, Elmo Jayawardena, Dil Jayawardena, CandleAid Lanka founders, CandleAid Lanka digital management system, custom management software Sri Lanka, digital management system, Excel to software solution, organization management software, custom software development Sri Lanka, digital transformation Sri Lanka'
+
+]
 
 ];
 
-
 /*
+
 |--------------------------------------------------------------------------
+
 | FIND ARTICLE
+
 |--------------------------------------------------------------------------
+
 */
 
 $id = $_GET['id'] ?? '';
@@ -224,14 +299,19 @@ foreach ($news as $index => $item) {
         $article_index = $index;
 
         break;
+
     }
+
 }
 
-
 /*
+
 |--------------------------------------------------------------------------
+
 | 404
+
 |--------------------------------------------------------------------------
+
 */
 
 if (!$article) {
@@ -255,22 +335,33 @@ if (!$article) {
             <div class="container">
 
                 <span class="eyebrow">
+
                     NEWS & INSIGHTS
+
                 </span>
 
                 <h1>
+
                     Story not found
+
                 </h1>
 
                 <p>
+
                     The news story you are looking for could not be found.
+
                 </p>
 
                 <a
+
                     class="btn btn-primary"
+
                     href="<?= BASE_URL ?>/pages/news"
+
                 >
+
                     Back to news →
+
                 </a>
 
             </div>
@@ -284,13 +375,17 @@ if (!$article) {
     include __DIR__ . '/../includes/footer.php';
 
     exit;
+
 }
 
-
 /*
+
 |--------------------------------------------------------------------------
+
 | SEO VARIABLES
+
 |--------------------------------------------------------------------------
+
 */
 
 $page_title = $article['seo_title'];
@@ -300,15 +395,21 @@ $meta_description = $article['seo_description'];
 $meta_keywords = $article['seo_keywords'];
 
 $canonical_url =
+
     BASE_URL .
+
     '/pages/news-details?id=' .
+
     urlencode($article['id']);
 
-
 /*
+
 |--------------------------------------------------------------------------
+
 | OPEN GRAPH
+
 |--------------------------------------------------------------------------
+
 */
 
 $og_title = $article['seo_title'];
@@ -321,58 +422,74 @@ $og_url = $canonical_url;
 
 $og_type = 'article';
 
-
 /*
+
 |--------------------------------------------------------------------------
+
 | LOAD HEADER
+
 |--------------------------------------------------------------------------
+
 */
 
 include __DIR__ . '/../includes/header.php';
 
 ?>
 
-
 <main class="news-detail-page">
 
-
     <!-- ================================================================
+
          NEWS HERO
+
          ================================================================ -->
 
     <section
+
         class="page-hero news-detail-hero"
+
         style="--news-banner: url('<?= htmlspecialchars($article['image']) ?>');"
+
     >
 
         <div class="container">
 
             <a
+
                 class="back-link"
+
                 href="<?= BASE_URL ?>/pages/news"
+
             >
+
                 ← Back to news
+
             </a>
 
-
             <span class="eyebrow">
+
                 <?= htmlspecialchars($article['category']) ?>
+
             </span>
 
-
             <h1>
-                <?= htmlspecialchars($article['title']) ?>
-            </h1>
 
+                <?= htmlspecialchars($article['title']) ?>
+
+            </h1>
 
             <div class="detail-meta">
 
                 <span>
+
                     <?= htmlspecialchars($article['date']) ?>
+
                 </span>
 
                 <span>
+
                     SurfUX
+
                 </span>
 
             </div>
@@ -381,123 +498,139 @@ include __DIR__ . '/../includes/header.php';
 
     </section>
 
-
-
     <!-- ================================================================
+
          ARTICLE CONTENT
+
          ================================================================ -->
 
     <section class="section section-light">
 
         <div class="container">
 
-
             <!-- Article Banner -->
 
             <div class="detail-hero-image news-detail-art">
 
                 <img
+
                     src="<?= htmlspecialchars($article['image']) ?>"
+
                     alt="<?= htmlspecialchars($article['title']) ?> - SurfUX"
+
                     loading="eager"
+
                 >
 
             </div>
 
-
-
             <div class="detail-content-grid news-detail-content">
 
-
                 <!-- ====================================================
+
                      ARTICLE
+
                      ==================================================== -->
 
                 <div>
 
                     <span class="eyebrow">
+
                         THE STORY
+
                     </span>
 
-
                     <p class="lead">
-                        <?= htmlspecialchars($article['intro']) ?>
-                    </p>
 
+                        <?= htmlspecialchars($article['intro']) ?>
+
+                    </p>
 
                     <?php foreach ($article['paragraphs'] as $paragraph): ?>
 
                         <p>
+
                             <?= htmlspecialchars($paragraph) ?>
+
                         </p>
 
                     <?php endforeach; ?>
 
                 </div>
 
-
-
                 <!-- ====================================================
+
                      SIDEBAR
+
                      ==================================================== -->
 
                 <aside class="detail-sidebar">
 
-
                     <h3>
-                        Article Details
-                    </h3>
 
+                        Article Details
+
+                    </h3>
 
                     <dl>
 
                         <dt>
+
                             Category
+
                         </dt>
 
                         <dd>
+
                             <?= htmlspecialchars($article['category']) ?>
+
                         </dd>
 
-
                         <dt>
+
                             Published
+
                         </dt>
 
                         <dd>
+
                             <?= htmlspecialchars($article['date']) ?>
+
                         </dd>
 
-
                         <dt>
+
                             Publisher
+
                         </dt>
 
                         <dd>
+
                             SurfUX
+
                         </dd>
 
                     </dl>
 
-
-
                     <h3>
-                        Key Points
-                    </h3>
 
+                        Key Points
+
+                    </h3>
 
                     <ul>
 
                         <?php foreach ($article['highlights'] as $highlight): ?>
 
                             <li>
+
                                 <?= htmlspecialchars($highlight) ?>
+
                             </li>
 
                         <?php endforeach; ?>
 
                     </ul>
-
 
                 </aside>
 
@@ -507,10 +640,10 @@ include __DIR__ . '/../includes/header.php';
 
     </section>
 
-
-
     <!-- ================================================================
+
          MORE FROM SURFUX
+
          ================================================================ -->
 
     <section class="section">
@@ -520,30 +653,37 @@ include __DIR__ . '/../includes/header.php';
             <div>
 
                 <span class="eyebrow">
+
                     MORE FROM SURFUX
+
                 </span>
 
                 <h2>
+
                     Explore more
+
                     <em>news & insights.</em>
+
                 </h2>
 
             </div>
 
-
             <a
+
                 class="btn btn-outline"
+
                 href="<?= BASE_URL ?>/pages/news"
+
             >
+
                 View all news →
+
             </a>
 
         </div>
 
     </section>
 
-
 </main>
-
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>
