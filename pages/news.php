@@ -5,7 +5,32 @@ $page_title = 'News & Insights | SurfUX';
 
 $news = [
 
-/*
+    /*
+    |--------------------------------------------------------------------------
+    | 01. FOUNDATION OF GOODNESS — SOFTWARE REQUIREMENTS DISCOVERY
+    |--------------------------------------------------------------------------
+    */
+    [
+        'id' => 'surfux-foundation-of-goodness-visit',
+
+        'title' => 'SurfUX Visits Foundation of Goodness to Explore a Tailored Software Solution',
+
+        'category' => 'SOFTWARE REQUIREMENTS & DIGITAL TRANSFORMATION',
+
+        'date' => 'October 2026',
+
+        'image' => BASE_URL . '/assets/img/portfolio/foundationofgoodness.webp',
+
+        'text' => 'SurfUX visited the Foundation of Goodness main centre in Rathgama, toured its centres, gathered initial requirements for a potential new software product and met founder Mr. Kushil Gunasekera.',
+
+        'seo_title' => 'SurfUX Visits Foundation of Goodness | Software Requirements & Digital Transformation',
+
+        'seo_description' => 'SurfUX visited the Foundation of Goodness main centre in Rathgama, toured its centres, gathered initial software requirements and met founder Mr. Kushil Gunasekera.',
+
+        'keywords' => 'SurfUX, Foundation of Goodness, Foundation of Goodness Rathgama, Kushil Gunasekera, software requirements gathering Sri Lanka, custom software development Sri Lanka, digital transformation, software discovery, organizational management software'
+    ],
+
+    /*
     |--------------------------------------------------------------------------
     | 02. CANDLEAID LANKA
     |--------------------------------------------------------------------------
@@ -30,10 +55,9 @@ $news = [
         'keywords' => 'CandleAid Lanka, Capt. Elmo Jayawardena, Elmo Jayawardena, Dil Jayawardena, CandleAid Lanka founders, CandleAid Lanka digital management system, custom management software Sri Lanka, digital management system, Excel to software solution, custom software development Sri Lanka'
     ],
 
-
     /*
     |--------------------------------------------------------------------------
-    | 01. CARESPHERE RESIDENT — GURUGE ELDERS CARE
+    | 03. CARESPHERE RESIDENT — GURUGE ELDERS CARE
     |--------------------------------------------------------------------------
     */
     [
@@ -56,13 +80,9 @@ $news = [
         'keywords' => 'Guruge Elders Care, Guruge Elder Home Panadura, CareSphere Resident, elder care management software Sri Lanka, elder home management system, resident management software, elder care digital transformation, SurfUX, care management platform'
     ],
 
-
-    
-
-
     /*
     |--------------------------------------------------------------------------
-    | 03. ALOKA ELDER HOME
+    | 04. ALOKA ELDER HOME
     |--------------------------------------------------------------------------
     */
     [
@@ -85,10 +105,9 @@ $news = [
         'keywords' => 'elder home management software, elder home management system, elder care management software, elder home software Sri Lanka, elder care management system'
     ],
 
-
     /*
     |--------------------------------------------------------------------------
-    | 04. CARESPHERE — PRODUCT LAUNCH
+    | 05. CARESPHERE — PRODUCT LAUNCH
     |--------------------------------------------------------------------------
     */
     [

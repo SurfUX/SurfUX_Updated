@@ -14,6 +14,47 @@ require_once __DIR__ . '/../includes/config.php';
 
 $news = [
 
+/*
+    |--------------------------------------------------------------------------
+    | 05. FOUNDATION OF GOODNESS — SOFTWARE REQUIREMENTS DISCOVERY
+    |--------------------------------------------------------------------------
+    */
+    [
+        'id' => 'surfux-foundation-of-goodness-visit',
+        'title' => 'SurfUX Visits Foundation of Goodness to Explore a Tailored Software Solution',
+        'category' => 'SOFTWARE REQUIREMENTS & DIGITAL TRANSFORMATION',
+        'date' => 'October 2026',
+        'image' => BASE_URL . '/assets/img/portfolio/foundationofgoodness.webp',
+        'intro' => 'SurfUX visited the Foundation of Goodness main centre in Rathgama to learn more about the organization’s work, explore operations across its centres and gather requirements for a potential new software solution tailored to its needs.',
+        'paragraphs' => [
+            'Successful software begins with understanding people, processes and the challenges an organization faces every day. For SurfUX, this means taking the time to learn how an organization operates before defining the technology that can best support its work.',
+            'During the visit to the Foundation of Goodness main centre in Rathgama, the SurfUX team toured the organization’s centres and gained a closer understanding of its activities, workflows and operational requirements. Seeing the work in context provided valuable insight into how different parts of the organization function and where a purpose-built digital solution may be able to help.',
+            'The visit also provided an opportunity to gather initial requirements for a new software product for the Foundation of Goodness. By learning about the organization’s needs and how its work is carried out, SurfUX can use these insights to inform the discovery and planning process for a solution aligned with its real-world requirements.',
+            'An important part of SurfUX’s approach is to avoid treating software as a one-size-fits-all product. Requirements discovery helps establish what users need, how workflows connect and which challenges a system should address. This foundation supports better-informed decisions before moving into solution design and development.',
+            'During the visit, the SurfUX team also met Mr. Kushil Gunasekera, founder of the Foundation of Goodness, and had the opportunity to learn more about the organization and its work. The engagement added valuable organizational context to the requirements-gathering process.',
+            'The visit also included participation in a live radio programme, creating another opportunity to share perspectives and engage with a wider audience. Together, these experiences made the visit a valuable step in understanding the Foundation of Goodness and exploring how technology could support its work.',
+            'For SurfUX, this engagement reflects a practical, collaborative approach to custom software development: listen first, understand the requirements and shape a solution around the organization’s needs. The software product is at the requirements-discovery stage, and the insights gathered during the visit will help guide the next steps.'
+        ],
+        'highlights' => [
+            'Visit to the Foundation of Goodness main centre in Rathgama',
+            'Tour of the organization’s centres and operations',
+            'Initial requirements gathering for a potential new software product',
+            'Meeting with Mr. Kushil Gunasekera, founder of the Foundation of Goodness',
+            'Participation in a live radio programme',
+            'A discovery-first approach to custom software development',
+            'Technology planning informed by real organizational workflows'
+        ],
+        /*
+        |--------------------------------------------------------------------------
+        | SEO
+        |--------------------------------------------------------------------------
+        */
+        'seo_title' => 'SurfUX Visits Foundation of Goodness | Software Requirements & Digital Transformation',
+        'seo_description' => 'SurfUX visited the Foundation of Goodness main centre in Rathgama, toured its centres, gathered initial software requirements and met founder Mr. Kushil Gunasekera.',
+        'seo_keywords' => 'SurfUX, Foundation of Goodness, Foundation of Goodness Rathgama, Kushil Gunasekera, software requirements gathering Sri Lanka, custom software development Sri Lanka, digital transformation, software discovery, organizational management software'
+    ],
+
+
     /*
 
     |--------------------------------------------------------------------------
@@ -271,6 +312,8 @@ $news = [
     'seo_keywords' => 'CandleAid Lanka, Capt. Elmo Jayawardena, Elmo Jayawardena, Dil Jayawardena, CandleAid Lanka founders, CandleAid Lanka digital management system, custom management software Sri Lanka, digital management system, Excel to software solution, organization management software, custom software development Sri Lanka, digital transformation Sri Lanka'
 
 ]
+
+
 
 ];
 
