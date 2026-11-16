@@ -54,6 +54,46 @@ $news = [
         'seo_keywords' => 'SurfUX, Foundation of Goodness, Foundation of Goodness Rathgama, Kushil Gunasekera, software requirements gathering Sri Lanka, custom software development Sri Lanka, digital transformation, software discovery, organizational management software'
     ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | 03. SILVERAGE CENTRE KATARAGAMA — CARESPHERE ELDER
+    |--------------------------------------------------------------------------
+    */
+    [
+        'id' => 'caresphere-elder-silverage-centre-kataragama',
+        'title' => 'A Milestone for SurfUX: CareSphere Elder Deployed at SilverAge Centre Kataragama',
+        'category' => 'GOVERNMENT DIGITAL TRANSFORMATION',
+        'date' => 'November 2026',
+        'image' => BASE_URL . '/assets/img/portfolio/silver.webp',
+        'intro' => 'SurfUX has successfully established CareSphere Elder at SilverAge Centre in Kataragama, a Sri Lankan government elder-care home. The centre’s operations are now fully automated through the system, marking SurfUX’s first government project.',
+        'paragraphs' => [
+            'SurfUX is proud to announce an important milestone in its journey: the establishment of CareSphere Elder at SilverAge Centre in Kataragama, a government elder-care home in Sri Lanka. This project marks the first government project for SurfUX and represents a significant step forward for the company and its CareSphere platform.',
+            'With CareSphere Elder in place, SilverAge Centre is now using the system to automate its operations. Bringing the centre’s work into a dedicated digital platform supports a more structured way of managing its activities and marks a move towards digitally enabled elder-care administration.',
+            'This achievement reflects SurfUX’s focus on developing practical software for organizations with real operational needs. CareSphere Elder has been shaped around the requirements of elder-care environments, with the goal of helping teams move away from fragmented manual work and manage their operations through a connected system.',
+            'Working with a government elder-care home is an important achievement for SurfUX. It demonstrates the opportunity for locally developed software to support public-sector organizations and contribute to the digital transformation of services that matter to communities.',
+            'The deployment at SilverAge Centre also represents an important chapter in the growth of CareSphere. What began as a platform built to address the operational needs of care organizations is now supporting a government elder-care centre in Kataragama.',
+            'SurfUX is grateful for the opportunity to contribute to SilverAge Centre’s digital journey. The project strengthens our commitment to building reliable, purpose-driven software solutions and expanding the role of technology in care management across Sri Lanka.'
+        ],
+        'highlights' => [
+            'CareSphere Elder established at SilverAge Centre, Kataragama',
+            'First government project for SurfUX',
+            'A Sri Lankan government elder-care home using CareSphere Elder',
+            'Centre operations automated through the system',
+            'Digital transformation in elder-care administration',
+            'A major milestone in the growth of the CareSphere platform'
+        ],
+        /*
+        |--------------------------------------------------------------------------
+        | SEO
+        |--------------------------------------------------------------------------
+        */
+        'seo_title' => 'CareSphere Elder at SilverAge Centre Kataragama | SurfUX First Government Project',
+        'seo_description' => 'SurfUX marks a major milestone with CareSphere Elder at SilverAge Centre Kataragama, a Sri Lankan government elder-care home, where operations are now fully automated through the system.',
+        'seo_keywords' => 'CareSphere Elder, SilverAge Centre Kataragama, Silver Age Centre, government elder home Sri Lanka, elder care management software Sri Lanka, elder home automation, elder home management system, SurfUX first government project, digital transformation Sri Lanka'
+    ],
+
+    /*
+
 
     /*
 

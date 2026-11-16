@@ -304,11 +304,13 @@ foreach ($portfolio as $p) {
                                 $p['id'],
                                 [
                                     'guruge-elders-care-caresphere-resident',
+                                    'foundation-of-goodness-rathgama',
                                     'caresphere-elder',
                                     'caresphere-child',
                                     'caresphere-residential',
                                     'caresphere-charity',
                                     'candleaid-lanka',
+                                    'silverage-centre-kataragama-caresphere-elder',
                                     'aloka-elder-s-home-admin-dashboard',
                                     'maniq-ceylon-admin-dashboard',
                                     'maniq-ceylon-e-catalogue-platform'
@@ -358,10 +360,27 @@ foreach ($portfolio as $p) {
                         | Social Impact
                         |--------------------------------------------------------------------------
                         */
-
-                        if (preg_match('/ngo|non-profit|social impact/i', $tag)) {
+if (
+                            in_array(
+                                $p['id'],
+                                [
+                                    'guruge-elders-care-caresphere-resident',
+                                    'foundation-of-goodness-rathgama',
+                                    'caresphere-elder',
+                                    'caresphere-child',
+                                    'caresphere-residential',
+                                    'caresphere-charity',
+                                    'candleaid-lanka',
+                                    'silverage-centre-kataragama-caresphere-elder',
+                                    'aloka-elder-s-home-admin-dashboard'
+                                    
+                                ],
+                                true
+                            )
+                        ) {
                             $groups[] = 'Social Impact';
                         }
+                        
 
                     }
 

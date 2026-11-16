@@ -57,6 +57,23 @@ $news = [
 
     /*
     |--------------------------------------------------------------------------
+    | 03. SILVERAGE CENTRE KATARAGAMA — CARESPHERE ELDER
+    |--------------------------------------------------------------------------
+    */
+    [
+        'id' => 'caresphere-elder-silverage-centre-kataragama',
+        'title' => 'A Milestone for SurfUX: CareSphere Elder Deployed at SilverAge Centre Kataragama',
+        'category' => 'GOVERNMENT DIGITAL TRANSFORMATION',
+        'date' => 'November 2026',
+        'image' => BASE_URL . '/assets/img/portfolio/silver.webp',
+        'text' => 'SurfUX has successfully established CareSphere Elder at SilverAge Centre in Kataragama, a Sri Lankan government elder-care home. The centre’s operations are now fully automated through the system, marking SurfUX’s first government project.',
+        'seo_title' => 'CareSphere Elder at SilverAge Centre Kataragama | SurfUX First Government Project',
+        'seo_description' => 'SurfUX marks a major milestone with CareSphere Elder at SilverAge Centre Kataragama, a Sri Lankan government elder-care home, where operations are now fully automated through the system.',
+        'keywords' => 'CareSphere Elder, SilverAge Centre Kataragama, Silver Age Centre, government elder home Sri Lanka, elder care management software Sri Lanka, elder home automation, elder home management system, SurfUX first government project, digital transformation Sri Lanka'
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
     | 03. CARESPHERE RESIDENT — GURUGE ELDERS CARE
     |--------------------------------------------------------------------------
     */

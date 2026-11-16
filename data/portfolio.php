@@ -81,6 +81,51 @@ return [
         ],
 
     ],
+     /*
+    |--------------------------------------------------------------------------
+    | 04. FOUNDATION OF GOODNESS — SOFTWARE DISCOVERY & DIGITAL TRANSFORMATION
+    |--------------------------------------------------------------------------
+    */
+    [
+        'id' => 'foundation-of-goodness-rathgama',
+
+        'title' => 'Foundation of Goodness – Rathgama',
+
+        'year' => '2026',
+
+        'type' => 'Non-Profit Organisation | Software Discovery',
+
+        'url' => 'https://www.foundationofgoodness.com/',
+
+        'image' => 'img/portfolio/foundationofgoodness.webp',
+
+        'alt' => 'SurfUX team visit to Foundation of Goodness at Rathgama, Sri Lanka',
+
+        'tags' => [
+            'Foundation of Goodness',
+            'Non-Profit Organisation',
+            'Software Requirements',
+            'Digital Transformation',
+            'System Planning',
+            'Sri Lanka',
+        ],
+
+        'description' => [
+            'SurfUX visited the Foundation of Goodness main centre in Rathgama, Sri Lanka, to learn more about the organisation’s work, its facilities, and the day-to-day operations across its centres.',
+            'During the visit, the SurfUX team toured the centres, met the founder, Mr. Kushil Gunasekera, and engaged with the organisation to understand its operational needs and gather initial requirements for a proposed software solution.',
+            'The visit marked an important discovery and planning stage in exploring how purpose-built technology could support the Foundation’s work. SurfUX is looking forward to applying its software development experience to help identify practical digital solutions for the organisation. The team also had the opportunity to take part in a live radio programme during the visit.',
+        ],
+
+        'features' => [
+            'On-Site Organisational Visit',
+            'Centre Operations Study',
+            'Stakeholder Engagement',
+            'Software Requirements Gathering',
+            'Digital Solution Discovery',
+            'Initial System Planning',
+        ],
+
+    ],
 
     [
 
@@ -152,6 +197,52 @@ return [
 
             'Travel Storytelling',
 
+        ],
+
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | 03. SILVERAGE CENTRE KATARAGAMA — CARESPHERE ELDER
+    |--------------------------------------------------------------------------
+    */
+    [
+        'id' => 'silverage-centre-kataragama-caresphere-elder',
+
+        'title' => 'SilverAge Centre Kataragama – CareSphere Elder',
+
+        'year' => '2026',
+
+        'type' => 'Government Elder Care Management System',
+
+        'url' => '',
+
+        'image' => 'img/portfolio/silver.webp',
+
+        'alt' => 'CareSphere Elder implemented by SurfUX at SilverAge Centre, Kataragama, Sri Lanka',
+
+        'tags' => [
+            'Government Project',
+            'CareSphere Elder',
+            'Elder Care',
+            'Government Digital Transformation',
+            'Software Implementation',
+            'Digital Automation',
+        ],
+
+        'description' => [
+            'SurfUX successfully established CareSphere Elder at SilverAge Centre in Kataragama, a Sri Lankan government elder-care home. This achievement marks the first government project for SurfUX and an important milestone in the company’s journey.',
+            'The centre is now using CareSphere Elder to automate its operations through a dedicated digital management system. The implementation supports a more structured and connected approach to the centre’s day-to-day administration.',
+            'This project demonstrates SurfUX’s commitment to developing practical software solutions for real-world organizations and contributing to digital transformation in Sri Lanka. It is also an important milestone for the CareSphere platform, extending its use into a government elder-care environment.',
+        ],
+
+        'features' => [
+            'CareSphere Elder Implementation',
+            'Government Elder Care Project',
+            'Automated Centre Operations',
+            'Centralized Digital Management',
+            'Structured Administrative Workflows',
+            'Digital Transformation',
         ],
 
     ],
